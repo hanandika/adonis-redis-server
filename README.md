@@ -1,4 +1,4 @@
-# docker-redis-server
+# adonis-redis-server
 
 The idea was to create single **AWS Lightsails Instance** behind  **Load Balancing**, acting as a **Redis** server, to **Broadcast** data to all **socket.io** client, share **Caching Data** from Database to all accross **node** **Adonis** instances.
 
